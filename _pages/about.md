@@ -31,7 +31,7 @@ redirect_from:
 
 
 
-# 📝 Publications 
+<!-- # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,20 +46,21 @@ redirect_from:
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+ -->
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02* Honorable Mention in the 2024 American College Mathematical Contest in Modeling.
+- *2023.02* First Prize in the "Higher Education Society Cup" National College Students Mathematical Contest in Modeling, Gansu Region.
+- *2021.12* Awarded the Second-Class Scholarship for Outstanding Students for the academic year 2020-2021 at Lanzhou University.
+- *2021.09* Second Prize in the Thirteenth National Mathematics Competition for College Students (Mathematics Class A), China.
 
 
-
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+ -->
 
 
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
