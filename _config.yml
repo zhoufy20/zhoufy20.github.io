@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Feiyu Zhou"
   avatar           : "images/avatar.png"
-  bio              : "Lanzhou University"
-  location         : "Lanzhou, China"
+  bio              : "Xi'an Jiaotong University"
+  location         : "Xi'an, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "zhoufy20@lzu.edu.cn"
+  email            : "zhoufy.xjtu@gmail.cn"
   researchgate     : "https://www.researchgate.net/profile/Feiyu-Zhou-3" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "" # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-5890-8084"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
