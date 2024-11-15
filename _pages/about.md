@@ -19,15 +19,25 @@ redirect_from:
 
 
 # 🔥 Introduction
-👋 Hi,there! I’m Feiyu Zhou, Currently pursuing a Doctorate degree in solid mechanics at Xi’an Jiaotong University.
-Simultaneously, I am a graduate student at Cuiying Honors College (China’s Top-notch Undergraduate training program 2.0), Lanzhou University, majoring in Mathematics and Applied Mathematics. 
-I am a ML enthusiast in solid mechanics and passionate about using data to drive insights and solve real-world problems.
+👋 Hi,there! I’m Feiyu Zhou, Currently pursuing a Doctorate degree with [Prof. Shengying Yue](https://gr.xjtu.edu.cn/en/web/syyue) and [Prof. Yilun Liu](https://gr.xjtu.edu.cn/en/web/yilunliu) in solid mechanics at [State Key Laboratory for Strength and Vibration of Mechanical Structures](http://en.xjtu.edu.cn/2021-03/30/c_607160.htm), School of Aerospace Engineering, Xi'an Jiaotong University, Xi'an, 710049, China.
+Simultaneously, I am a graduate student at [Cuiying Honors College](https://cycollege.lzu.edu.cn/) (China’s Top-notch Undergraduate training program 2.0), [Lanzhou University](https://www.lzu.edu.cn/), majoring in [Mathematics and Applied Mathematics](https://math.lzu.edu.cn/). 
+
+My long-term research interests lie in:
+- Data-driven solid mechanics and solve real-world problems
+- AI4Science(Chemistry, Physics Large Language models etc)
+
+
+<div style="color: red;">
+  You can find my CV here:
+  <a href="../files/cv/cv.pdf" target="_blank">Feiyu’s Curriculum Vitae</a>.
+  Feel free to email me for academic cooperations or chat.
+</div>
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 📖 Educations
-- *2024.09 - 2029.06(Expected)*, Ph.D., State Key Laboratory for Strength and Vibration of Mechanical Structures,Multiscale Mechanics and Medical Science Lab, Department of Engineering Mechanics, School of Aerospace, Xi'an Jiaotong University, Xian, China.
+- *2024.09 - 2029.06(Expected)*, **Ph.D., State Key Laboratory for Strength and Vibration of Mechanical Structures,Multiscale Mechanics and Medical Science Lab, Department of Engineering Mechanics, School of Aerospace, Xi'an Jiaotong University, Xian, China.**
 - *2020.09 - 2024.06*, Bachelor, Mathematics and Applied Mathematics, Cuiying Honors College, Lanzhou University, Lanzhou, Gansu, China.
 - *2017.09 - 2020.06*, Senior, Hengshui High School Anhui Campus, Hefei, Anhui, China.
 
@@ -35,22 +45,20 @@ I am a ML enthusiast in solid mechanics and passionate about using data to drive
 
 # 📝 Publications 
 
-## Coming soon!
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- CBPFNet -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">None</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Convalent Bond]()
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Feiyu Zhou**, 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+*Journal*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- convalent bond 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
- -->
 
 
 # 🎖 Honors and Awards
@@ -60,10 +68,12 @@ I am a ML enthusiast in solid mechanics and passionate about using data to drive
 - *2021.09* Second Prize in the Thirteenth National Mathematics Competition for College Students (Mathematics Class A), China.
 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 Invited Talks
+## Coming soon!
+
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+## Coming soon!
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
