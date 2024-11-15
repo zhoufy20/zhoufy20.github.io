@@ -22,7 +22,7 @@ redirect_from:
 👋 Hi,there! I’m Feiyu Zhou, Currently pursuing a Doctorate degree with [Prof. Shengying Yue](https://gr.xjtu.edu.cn/en/web/syyue) and [Prof. Yilun Liu](https://gr.xjtu.edu.cn/en/web/yilunliu) in solid mechanics at [State Key Laboratory for Strength and Vibration of Mechanical Structures](http://en.xjtu.edu.cn/2021-03/30/c_607160.htm), [School of Aerospace Engineering](https://sae.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), Xi'an, 710049, China.
 Simultaneously, I am a graduate student at [Cuiying Honors College](https://cycollege.lzu.edu.cn/) (China’s Top-notch Undergraduate training program 2.0), [Lanzhou University](https://www.lzu.edu.cn/), majoring in [Mathematics and Applied Mathematics](https://math.lzu.edu.cn/). 
 
-My long-term research interests lie in:
+**My long-term research interests lie in:**
 - Data-driven solid mechanics and solve real-world problems
 - AI4Science(Chemistry, Physics Large Language models etc)
 
