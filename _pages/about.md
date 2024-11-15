@@ -71,9 +71,8 @@ My long-term research interests lie in:
 # 📕Projects
 
 ## Solving High Dimensional PDEs with BSDEs Using PyTorch
-![](https://img.shields.io/github/stars/zhoufy20/deep-bsde-pytorch)
 [Paper Code](https://github.com/zhoufy20/deep-bsde-pytorch)
-[Paper]()
+![](https://img.shields.io/github/stars/zhoufy20/deep-bsde-pytorch)
 
 - Cuiying Honors College Innovation Fund Project No. 20230020105 at Lanzhou University, China (March 2023 - March 2024) and the Project supervisor is [Prof. Weihua Deng](https://scholar.google.com/citations?user=hXO2ZmUAAAAJ)
 
