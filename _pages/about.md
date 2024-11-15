@@ -41,6 +41,12 @@ My long-term research interests lie in:
 - *2020.09 - 2024.06*, Bachelor, Mathematics and Applied Mathematics, Cuiying Honors College, Lanzhou University, Lanzhou, Gansu, China.
 - *2017.09 - 2020.06*, Senior, Hengshui High School Anhui Campus, Hefei, Anhui, China.
 
+# 🎖 Honors and Awards
+- *2024.02* Honorable Mention in the 2024 American College Mathematical Contest in Modeling.
+- *2023.02* First Prize in the "Higher Education Society Cup" National College Students Mathematical Contest in Modeling, Gansu Region.
+- *2021.12* Awarded the Second-Class Scholarship for Outstanding Students for the academic year 2020-2021 at Lanzhou University.
+- *2021.09* Second Prize in the Thirteenth National Mathematics Competition for College Students (Mathematics Class A), China.
+
 
 
 # 📝 Publications 
@@ -61,11 +67,20 @@ My long-term research interests lie in:
 </div>
 
 
-# 🎖 Honors and Awards
-- *2024.02* Honorable Mention in the 2024 American College Mathematical Contest in Modeling.
-- *2023.02* First Prize in the "Higher Education Society Cup" National College Students Mathematical Contest in Modeling, Gansu Region.
-- *2021.12* Awarded the Second-Class Scholarship for Outstanding Students for the academic year 2020-2021 at Lanzhou University.
-- *2021.09* Second Prize in the Thirteenth National Mathematics Competition for College Students (Mathematics Class A), China.
+
+# 📕Projects
+
+## Solving High Dimensional PDEs with BSDEs Using PyTorch
+![](https://img.shields.io/github/stars/zhoufy20/deep-bsde-pytorch)
+[Paper Code](https://github.com/zhoufy20/deep-bsde-pytorch)
+[Paper]()
+
+- Cuiying Honors College Innovation Fund Project No. 20230020105 at Lanzhou University, China (March 2023 - March 2024) and the Project supervisor is [Prof. Weihua Deng](https://scholar.google.com/citations?user=hXO2ZmUAAAAJ)
+
+- This repository contains Python scripts that implement solutions to backward stochastic differential equations (BSDEs) for several high-dimensional partial differential equations using PyTorch.
+
+- We draw an analogy between BSDEs and reinforcement learning, where the gradient of the solution serves as the policy function, and the loss function is defined by the discrepancy between the specified terminal condition and the solution of the BSDE.
+
 
 
 # 💬 Invited Talks
