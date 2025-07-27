@@ -19,12 +19,25 @@ redirect_from:
 
 
 # 🔥 Introduction
-👋 Hi,there! I’m Feiyu Zhou, Currently pursuing a Doctorate degree with [Prof. Shengying Yue](https://gr.xjtu.edu.cn/en/web/syyue) and [Prof. Yilun Liu](https://gr.xjtu.edu.cn/en/web/yilunliu) in solid mechanics at [State Key Laboratory for Strength and Vibration of Mechanical Structures](http://en.xjtu.edu.cn/2021-03/30/c_607160.htm), [School of Aerospace Engineering](https://sae.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), Xi'an, 710049, China.
-Simultaneously, I am a graduate student at [Cuiying Honors College](https://cycollege.lzu.edu.cn/) (China’s Top-notch Undergraduate training program 2.0), [Lanzhou University](https://www.lzu.edu.cn/), majoring in [Mathematics and Applied Mathematics](https://math.lzu.edu.cn/). 
 
-**My long-term research interests lie in:**
-- Data-driven solid mechanics and solve real-world problems
-- AI4Science(Chemistry, Physics Large Language models etc)
+👋 Hi there! I’m **Feiyu Zhou**, currently pursuing a Ph.D. in **Solid Mechanics** under the supervision of [Prof. Shengying Yue](https://gr.xjtu.edu.cn/en/web/syyue) and [Prof. Yilun Liu](https://gr.xjtu.edu.cn/en/web/yilunliu) at the [State Key Laboratory for Strength and Vibration of Mechanical Structures](http://en.xjtu.edu.cn/2021-03/30/c_607160.htm), [School of Aerospace Engineering](https://sae.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), Xi'an, China.
+
+At the same time, I am also a graduate student at the [Cuiying Honors College](https://cycollege.lzu.edu.cn/) of [Lanzhou University](https://www.lzu.edu.cn/), majoring in [Mathematics and Applied Mathematics](https://math.lzu.edu.cn/)—a part of China’s **Top-notch Undergraduate Training Program 2.0**.
+
+---
+
+## 🧠 Research Interests
+
+My long-term research interests lie at the intersection of solid mechanics, applied mathematics, and artificial intelligence, with the overarching goal of addressing real-world engineering problems through physics-informed and data-driven approaches.
+
+Specifically, my work focuses on:
+
+- Data-driven solid mechanics: Leveraging machine learning and statistical methods to enhance the modeling, simulation, and design of complex mechanical systems.
+
+- AI for Science: Developing and applying modern AI techniques—including graph neural networks (GNNs), physics-informed neural networks (PINNs), operator learning, and large language models—to accelerate scientific discovery and modeling.
+
+- Multi-scale mechanical modeling: Bridging scales from quantum mechanics (e.g., density functional theory) and molecular dynamics to continuum mechanics and phase-field modeling, aiming to connect theoretical understanding with practical applications.
+
 
 
 <div style="color: red;">
@@ -51,6 +64,21 @@ Simultaneously, I am a graduate student at [Cuiying Honors College](https://cyco
 
 # 📝 Publications 
 
+<!-- Electronic density -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">None</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Electronic density]()
+
+**Feiyu Zhou**, 
+
+*Journal*
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- convalent bond 
+</div>
+</div>
+
 <!-- CBPFNet -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">None</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,6 +93,23 @@ Simultaneously, I am a graduate student at [Cuiying Honors College](https://cyco
 - convalent bond 
 </div>
 </div>
+
+<!-- Large Language Models for cell type annotation -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">None</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Large Language Models for cell type annotation]()
+
+**Feiyu Zhou**, 
+
+*Journal*
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- convalent bond 
+</div>
+</div>
+
+# 📢 News
 
 
 
