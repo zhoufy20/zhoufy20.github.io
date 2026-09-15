@@ -1,0 +1,20 @@
+name: Single-page navigation check
+
+on:
+  push:
+    branches: ["single-page-nav-fix", "main"]
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  nav-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Validate same-page navigation
+        run: python scripts/check_single_page_nav.py
