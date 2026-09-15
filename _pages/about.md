@@ -48,11 +48,14 @@ Specifically, my work focuses on:
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+<span class='anchor' id='educations'></span>
 
 # 📖 Educations
 - *2024.09 - 2029.06(Expected)*, **Ph.D., State Key Laboratory for Strength and Vibration of Mechanical Structures,Multiscale Mechanics and Medical Science Lab, Department of Engineering Mechanics, School of Aerospace, Xi'an Jiaotong University, Xian, China.**
 - *2020.09 - 2024.06*, Bachelor, Mathematics and Applied Mathematics, Cuiying Honors College, Lanzhou University, Lanzhou, Gansu, China.
 - *2017.09 - 2020.06*, Senior, Hengshui High School Anhui Campus, Hefei, Anhui, China.
+
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 - *2024.02* Honorable Mention in the 2024 American College Mathematical Contest in Modeling.
@@ -61,6 +64,8 @@ Specifically, my work focuses on:
 - *2021.09* Second Prize in the Thirteenth National Mathematics Competition for College Students (Mathematics Class A), China.
 
 
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -109,6 +114,8 @@ Specifically, my work focuses on:
 </div>
 </div>
 
+<span class='anchor' id='news'></span>
+
 # 📢 News
 
 
@@ -127,11 +134,15 @@ Specifically, my work focuses on:
 
 
 
+<span class='anchor' id='invited-talks'></span>
+
 # 💬 Invited Talks
 ## Coming soon!
 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 ## Coming soon!
